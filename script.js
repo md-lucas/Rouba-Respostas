@@ -198,7 +198,7 @@ function mostraUma(ev) {
 		var img = document.createElement("IMG");
 		img.style.width = "97vw";
 		img.src = url;
-		img.onerror = null;	
+		img.onerror = img.src= "https://md-lucas.github.io/Rouba-Respostas/blank.png";	
 		imgDiv.innerHTML = "";
 		imgDiv.appendChild(img);
 	} else {
