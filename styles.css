@@ -80,6 +80,5 @@ button {
 }
 
 html, body {
-	min-height: 100%;
-	text-color: #fafafa;
+	background-color: #fafafa;
 }
