@@ -79,5 +79,6 @@ button {
 }
 
 html, body {
-	center;
+	text-align: center;
+	text-align: justify;
 }
