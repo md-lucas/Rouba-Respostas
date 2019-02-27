@@ -36,15 +36,16 @@
 	display: inline-block;
 }*/
 #info{
-     text-align:center;
-     font-size: 1.5vw;
-     font-weight: 300vw;
-     height:50px;
-     box-shadow:inset 1px 1px 40px 0 rgba(0,0,0,.45);
-     border-bottom:2px solid #333;
-     border-right:2px solid #333;
-     background-size:cover;
-     border-radius:5px;
+text-align:center;
+font-size: 1.5vw;
+font-weight: 300vw;
+height:100px;
+box-shadow:inset 1px 1px 40px 0 rgba(0,0,0,.45);
+border-bottom:2px solid #333;
+border-right:2px solid #333;
+background-size:cover;
+border-radius:5px;
+padding: 0.8vw 1.5vw 0.8vw 1.5vw;
 }
 button {
 	margin: 2px;
