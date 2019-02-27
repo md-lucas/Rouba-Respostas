@@ -39,6 +39,7 @@
 .titulo {
   font-family: 'Salsa', sans-serif;
   text-align:center;
+  margin-bottom: 50px;
 }
 
 .titulo h3 {
