@@ -16,15 +16,6 @@
 #questoesDiv button {
 	width: 9.4vw;
 	padding: 0.5vw 1.1vw 0.5vw 1.1vw;
-	
-  	font-family: Courier, sans-serif;
-  	font-size: 13px;
-  	color: #fff;
-  	background-color: #3d3d3d;
-  	-webkit-border-radius: 0px 0px 6px 6px;
-  	-moz-border-radius: 0px 0px 6px 6px;
-  	border-radius: 0px 0px 6px 6px;
-  	margin-bottom: 10px;
 }
 	
 .selecionado {
