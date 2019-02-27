@@ -181,7 +181,7 @@ function mostraUma(ev) {
 	if(corr == "41"){
 		switch(ano){
 			case "2011":
-				url = url.replace("40","31");
+				url = url.replace("41","30");
 				break;
 			case "2012":
 				url = url.replace("41","80");
