@@ -181,7 +181,7 @@ function mostraUma(ev) {
 	if(corr == "41"){
 		switch(ano){
 			case "2011":
-				url = url.replace("41","31");
+				url = url.replace("40","31");
 				break;
 			case "2012":
 				url = url.replace("41","80");
@@ -198,7 +198,7 @@ function mostraUma(ev) {
 		var img = document.createElement("IMG");
 		img.style.width = "97vw";
 		img.src = url;
-			
+		img.onerror = null;	
 		imgDiv.innerHTML = "";
 		imgDiv.appendChild(img);
 	} else {
