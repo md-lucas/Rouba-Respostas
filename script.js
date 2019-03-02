@@ -59,6 +59,8 @@ function selecionouMateria(ev) {
 		elem.className = "";
 	}
 
+	anosDiv.style.display = "block";
+
 }
 	
 function selecionouAno(ev) {
@@ -75,6 +77,9 @@ function selecionouAno(ev) {
 	for (var elem of questoesDiv.getElementsByClassName("selecionado")) {
 		elem.className = "";
 	}
+
+	questoesDiv.style.display = "block";
+
 }
 	
 function mostraUma(ev) {
