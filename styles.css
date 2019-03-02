@@ -96,3 +96,15 @@ html, body {
 
 .box{
 }
+
+#materiaDiv{
+	display: block;
+}
+
+#anosDiv{
+	display: none;
+}
+
+#questoesDiv {
+	display: none;
+}
